@@ -25,17 +25,3 @@ I'm <strong>Yassa</strong>, a passionate <strong>Front-End Developer</strong> fr
 </p>
 
 ---
-
-### 📫 Connect with me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 💻 [Portfolio](https://your-portfolio.com)  
-- 🐙 [GitHub](https://github.com/your-username)
-
----
-
-### 📊 GitHub Stats (Optional)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Yassa's GitHub stats" />
-</p>
