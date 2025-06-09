@@ -12,6 +12,7 @@ I'm <strong>Yassa</strong>, a passionate <strong>Front-End Developer</strong> fr
 
 💻 Front-End Developer | 🇪🇬 Based in Egypt  
 🔧 React, Next.js, TypeScript, Tailwind CSS, Sass, Bootstrap, jQuery  
+💡 Also experienced with C++ and Java  
 🎯 Focused on building clean, responsive, and interactive UIs  
 🌱 Currently learning advanced JavaScript patterns & exploring server-side rendering with Next.js  
 🤝 Open to remote opportunities and collaboration on creative projects
@@ -31,6 +32,8 @@ I'm <strong>Yassa</strong>, a passionate <strong>Front-End Developer</strong> fr
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
