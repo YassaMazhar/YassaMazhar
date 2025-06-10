@@ -40,3 +40,7 @@ I'm <strong>Yassa</strong>, a passionate <strong>Front-End Developer</strong> fr
 </p>
 
 ---
+
+### 📈 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/yassa-dev/count.svg)
