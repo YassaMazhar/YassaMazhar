@@ -41,6 +41,10 @@ I'm <strong>Yassa</strong>, a passionate <strong>Front-End Developer</strong> fr
 
 ---
 
-### 📈 Visitor Count
+<h3>📊 Visitor Counter</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/yassa-dev/count.svg)
+<div style="background-color: #f5f5f5; padding: 10px; border-radius: 8px; width: fit-content;">
+  <img src="https://profile-counter.glitch.me/yassa-dev/count.svg" alt="Visitor Count" />
+  <p style="margin: 0; font-size: 12px; color: #555;"><i>Thank you for visiting! 🙌</i></p>
+</div>
+
